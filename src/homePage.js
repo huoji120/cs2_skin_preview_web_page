@@ -64,7 +64,7 @@ const HomePage = ({ weapons, skins, selectedWeapon, selectedSkin, wearValue, pat
         <div className="dark:bg-gray-800 dark:text-white min-h-screen">
             <nav className="bg-gray-900 p-4 text-white">
                 <ul className="flex space-x-4">
-                    TG社区皮肤选择器
+                    CS2皮肤选择器 by huoji
                 </ul>
             </nav>
 
